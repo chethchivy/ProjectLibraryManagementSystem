@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9220EB9B-D330-4E66-A0FB-5F42A6C693E4}|ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem.csproj|d:\\university\\rupp-year3\\isad\\group-4\\projectlibrarymanagementsystem\\projectlibrarymanagementsystem\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9220EB9B-D330-4E66-A0FB-5F42A6C693E4}|ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem.csproj|solutionrelative:projectlibrarymanagementsystem\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9220EB9B-D330-4E66-A0FB-5F42A6C693E4}|ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem.csproj|D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\projectlibrarymanagementsystem\\formborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9220EB9B-D330-4E66-A0FB-5F42A6C693E4}|ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem.csproj|solutionrelative:projectlibrarymanagementsystem\\formborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9220EB9B-D330-4E66-A0FB-5F42A6C693E4}|ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem.csproj|D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\projectlibrarymanagementsystem\\formborrow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9220EB9B-D330-4E66-A0FB-5F42A6C693E4}|ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem.csproj|solutionrelative:projectlibrarymanagementsystem\\formborrow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9220EB9B-D330-4E66-A0FB-5F42A6C693E4}|ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem.csproj|D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\projectlibrarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9220EB9B-D330-4E66-A0FB-5F42A6C693E4}|ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem.csproj|solutionrelative:projectlibrarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9220EB9B-D330-4E66-A0FB-5F42A6C693E4}|ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem.csproj|D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\projectlibrarymanagementsystem\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9220EB9B-D330-4E66-A0FB-5F42A6C693E4}|ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem.csproj|solutionrelative:projectlibrarymanagementsystem\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9220EB9B-D330-4E66-A0FB-5F42A6C693E4}|ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem.csproj|D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\projectlibrarymanagementsystem\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9220EB9B-D330-4E66-A0FB-5F42A6C693E4}|ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem.csproj|solutionrelative:projectlibrarymanagementsystem\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9220EB9B-D330-4E66-A0FB-5F42A6C693E4}|ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem.csproj|D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\projectlibrarymanagementsystem\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9220EB9B-D330-4E66-A0FB-5F42A6C693E4}|ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem.csproj|solutionrelative:projectlibrarymanagementsystem\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9220EB9B-D330-4E66-A0FB-5F42A6C693E4}|ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem.csproj|D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\projectlibrarymanagementsystem\\formaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9220EB9B-D330-4E66-A0FB-5F42A6C693E4}|ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem.csproj|solutionrelative:projectlibrarymanagementsystem\\formaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem\\Helper.cs",
+              "RelativeDocumentMoniker": "ProjectLibraryManagementSystem\\Helper.cs",
+              "ToolTip": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem\\Helper.cs",
+              "RelativeToolTip": "ProjectLibraryManagementSystem\\Helper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:35:20.331Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormBorrow.Designer.cs",
+              "DocumentMoniker": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem\\FormBorrow.Designer.cs",
+              "RelativeDocumentMoniker": "ProjectLibraryManagementSystem\\FormBorrow.Designer.cs",
+              "ToolTip": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem\\FormBorrow.Designer.cs",
+              "RelativeToolTip": "ProjectLibraryManagementSystem\\FormBorrow.Designer.cs",
+              "ViewState": "AQIAAJsBAAAAAAAAAAAnwK4BAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T03:50:27.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormBorrow.cs",
+              "DocumentMoniker": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem\\FormBorrow.cs",
+              "RelativeDocumentMoniker": "ProjectLibraryManagementSystem\\FormBorrow.cs",
+              "ToolTip": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem\\FormBorrow.cs",
+              "RelativeToolTip": "ProjectLibraryManagementSystem\\FormBorrow.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADwvzcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T03:37:05.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "ProjectLibraryManagementSystem\\FormMain.Designer.cs",
+              "ToolTip": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem\\FormMain.Designer.cs",
+              "RelativeToolTip": "ProjectLibraryManagementSystem\\FormMain.Designer.cs",
+              "ViewState": "AQIAAF8DAAAAAAAAAADgv3QDAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T03:12:34.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAddress.cs [Design]",
+              "DocumentMoniker": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem\\FormAddress.cs",
+              "RelativeDocumentMoniker": "ProjectLibraryManagementSystem\\FormAddress.cs",
+              "ToolTip": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem\\FormAddress.cs [Design]",
+              "RelativeToolTip": "ProjectLibraryManagementSystem\\FormAddress.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:58:11.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem\\FormMain.cs",
+              "RelativeDocumentMoniker": "ProjectLibraryManagementSystem\\FormMain.cs",
+              "ToolTip": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem\\FormMain.cs [Design]",
+              "RelativeToolTip": "ProjectLibraryManagementSystem\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:35:11.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem\\FormMain.cs",
+              "RelativeDocumentMoniker": "ProjectLibraryManagementSystem\\FormMain.cs",
+              "ToolTip": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem\\FormMain.cs",
+              "RelativeToolTip": "ProjectLibraryManagementSystem\\FormMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAP8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:33:06.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectLibraryManagementSystem\\Program.cs",
+              "ToolTip": "D:\\University\\RUPP-Year3\\ISAD\\Group-4\\ProjectLibraryManagementSystem\\ProjectLibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "ProjectLibraryManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAEwBsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:18:19.075Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
